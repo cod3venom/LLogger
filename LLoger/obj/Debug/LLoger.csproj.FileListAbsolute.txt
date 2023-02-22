@@ -1,0 +1,10 @@
+C:\Users\venom\source\repos\LLoger\LLoger\bin\Debug\LLoger.pdb
+C:\Users\venom\source\repos\LLoger\LLoger\bin\Debug\log4net.dll
+C:\Users\venom\source\repos\LLoger\LLoger\bin\Debug\log4net.xml
+C:\Users\venom\source\repos\LLoger\LLoger\obj\Debug\LLoger.csproj.AssemblyReference.cache
+C:\Users\venom\source\repos\LLoger\LLoger\obj\Debug\LLoger.csproj.CoreCompileInputs.cache
+C:\Users\venom\source\repos\LLoger\LLoger\obj\Debug\LLoger.csproj.CopyComplete
+C:\Users\venom\source\repos\LLoger\LLoger\obj\Debug\LLoger.pdb
+C:\Users\venom\source\repos\LLoger\LLoger\bin\Debug\log4net.config
+C:\Users\venom\source\repos\LLoger\LLoger\bin\Debug\LLoger.dll
+C:\Users\venom\source\repos\LLoger\LLoger\obj\Debug\LLoger.dll
